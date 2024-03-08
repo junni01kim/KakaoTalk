@@ -2,6 +2,7 @@
 
 ## 실행화면
 ![image](https://github.com/junni01kim/KakaoTalkThemedChatWindowByJetpackCompose/assets/127941871/5dd9db3f-21c8-4afc-af59-41854a8b64bd)
+<img width="170" alt="KakaoTalk_20240309_010811782" src="https://github.com/junni01kim/KakaoTalkThemedChatWindowByJetpackCompose/assets/127941871/e0aab91a-9c5e-4a0c-9e33-b502225dd3aa">
 
 ## Jetpack Compose를 이용한 카카오톡 채팅방 만들기
 
