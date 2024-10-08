@@ -1,16 +1,17 @@
 # kakaotalk
+2024 고급 모바일 프로그래밍 수업 이수를 위한, Flutter 연습용 숏 프로젝트
 
-A new Flutter project.
+목표: Dart 학습, Flutter 프론트 디자인 학습
 
-## Getting Started
+## 플러터 실행 디바이스 수정 방법
+```
+[ctrl + shitf + p]
+Flutter: Select Device 
+```
 
-This project is a starting point for a Flutter application.
+## 에뮬레이터 띄우는 방법
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+[ctrl + shitf + p]
+Flutter: Launch Emulator
+```
