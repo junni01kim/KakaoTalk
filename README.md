@@ -28,7 +28,12 @@ Flutter: Launch Emulator
 6. 리팩터링하려는 코드 부분(여기서는 Text)으로 커서를 이동하고 `Ctrl+.`
 
 ## 사용 기능
+1. ListView builder
+2. TextField
+3. TextEditingController
+4. Flexible, Expanded
 
 ## 배운 것 
 1. lower_case로 파일을 만들지 않으면 많은 오류가 발생한다.
-2. 위젯 생성 시 화면 크기가 무한대가 되는 오류 조심할 것
+2. 위젯 생성 시 화면 크기가 무한대가 되는 오류 조심할 것.
+3. 1회만 사용하는 코드들은 `const`를 붙여 상수화 시키는 것이 유리하다. (Q. 한번만 사용할 것을 상수화 시키면 메모리 낭비 아닌가?)
